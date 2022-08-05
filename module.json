@@ -1,5 +1,5 @@
 {
-  "id": "fortunes-and-fables",
+  "name": "fortunes-and-fables",
   "title": "Fortunes and Fables",
   "description": "A Pathfinder 2E module that expands Downtime and Social Encounters",
   "authors": [
@@ -8,8 +8,4 @@
     }
     ],
   "version": "0.1.0",
-  "compatibility": {
-    "minimum": "9",
-    "verified": "10"
-  }
 }
