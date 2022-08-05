@@ -2,10 +2,14 @@
   "name": "fortunes-and-fables",
   "title": "Fortunes and Fables",
   "description": "A Pathfinder 2E module that expands Downtime and Social Encounters",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "socket" : false,
   "authors": [
     {
     "name": "TheForgottenWorkshop"
     }
     ],
   "version": "0.1.0",
+  "url": "https://github.com/Firgof/Fortunes-and-Fables-FVTT/"
 }
