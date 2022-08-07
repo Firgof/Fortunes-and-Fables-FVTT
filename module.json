@@ -2,9 +2,8 @@
   "name": "fortunes-and-fables",
   "title": "Fortunes and Fables",
   "description": "A Pathfinder 2E module that expands Downtime and Social Encounters",
-  "minimumCoreVersion": "9",
+  "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
-  "socket" : false,
   "authors": [
     {
     "name": "TheForgottenWorkshop"
