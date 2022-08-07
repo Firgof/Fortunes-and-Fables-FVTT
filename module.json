@@ -4,13 +4,17 @@
   "description": "A Pathfinder 2E module that expands Downtime and Social Encounters",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
-  "authors": [
-    {
-    "name": "TheForgottenWorkshop"
-    }
-    ],
+  "packs": [
+      {
+          "name": "module-creatures",
+          "label": "Module Creatures",
+          "path": "./packs/creatures.db",
+          "entity": "Actor",
+          "type": "Actor"
+      },
+  ],
   "version": "0.1.0",
   "url": "https://github.com/Firgof/Fortunes-and-Fables-FVTT/",
-  "download": "https://github.com/Firgof/Fortunes-and-Fables-FVTT/archive/refs/tags/prerelease.zip",
+  "download": "https://github.com/Firgof/Fortunes-and-Fables-FVTT/raw/main/fortunes-and-fables_content.zip",
   "manifest": "https://raw.githubusercontent.com/Firgof/Fortunes-and-Fables-FVTT/main/module.json",
 }
