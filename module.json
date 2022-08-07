@@ -6,11 +6,6 @@
   "compatibleCoreVersion": "10",
   "packs": [
       {
-          "name": "module-creatures",
-          "label": "Module Creatures",
-          "path": "./packs/creatures.db",
-          "entity": "Actor",
-          "type": "Actor"
       },
   ],
   "version": "0.1.0",
